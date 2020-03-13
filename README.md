@@ -1,3 +1,2 @@
-Implementation of a neural machine translation system from Russian to English. The
-encoder-decoder model Transformer-based model is used. The model evaluated using
-the CodaLab [competition](https://competitions.codalab.org/competitions/23614).
+To use the code download and unpack model from [here](https://dl.fbaipublicfiles.com/fairseq/models/wmt19.ru-en.ensemble.tar.gz).
+Then change the path to folder in line 19.

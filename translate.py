@@ -1,3 +1,5 @@
+# download and unpack model from https://dl.fbaipublicfiles.com/fairseq/models/wmt19.ru-en.ensemble.tar.gz
+
 import sys
 import numpy as np
 import string
